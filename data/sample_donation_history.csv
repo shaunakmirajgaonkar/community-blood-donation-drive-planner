@@ -1,0 +1,9 @@
+blood_group,zone,successful_donations_90d,cancellation_rate_pct,returning_donor_rate_pct,avg_units_per_drive
+O-,North,42,13,61,78
+O+,North,96,8,68,126
+A-,East,36,15,57,64
+A+,East,88,9,70,118
+B-,West,28,18,54,52
+B+,West,61,11,63,86
+AB-,South,14,20,48,28
+AB+,South,23,17,56,39

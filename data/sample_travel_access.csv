@@ -1,0 +1,9 @@
+site_id,site_name,zone,travel_minutes,public_transport_access_pct,parking_capacity,population_reach_index
+S001,North Community Hall,North,18,82,110,84
+S002,Riverside College,North,26,74,180,91
+S003,East Civic Centre,East,15,88,90,86
+S004,Lakeside School,East,31,62,130,72
+S005,West Market Complex,West,22,79,210,94
+S006,Industrial Training Hall,West,35,55,250,78
+S007,South Sports Arena,South,17,91,320,97
+S008,Community Health Hall,South,28,69,95,81
